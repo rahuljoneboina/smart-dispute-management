@@ -1,0 +1,6 @@
+{
+  "name": "DisputeIQ - Invoice Dispute Management System",
+  "description": "Structured invoice dispute management platform connecting disputed invoices with procurement evidence, vendor communications, and financial reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
